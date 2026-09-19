@@ -34,3 +34,6 @@ tests/scratch_data/
 .DS_Store
 Thumbs.db
 desktop.ini
+nvim.log
+*.sublime-workspace
+*.sublime-project
